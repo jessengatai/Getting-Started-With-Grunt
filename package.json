@@ -1,7 +1,7 @@
 {
   "name": "Getting-Started-With-Grunt",
   "version": "1.0.0",
-  "description": "A simple guide and tutorial for getting started with basic grunt tasks. See https://jessengatai.com/getting-started-with-grunt-part-1/ for the step by step guide.",
+  "description": "A tutorial for getting started with basic grunt tasks. See https://jessengatai.com/getting-started-with-grunt-part-1/ for the step by step guide.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jessengatai/Getting-Started-With-Grunt"
