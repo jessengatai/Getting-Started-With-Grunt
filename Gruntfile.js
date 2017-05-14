@@ -19,7 +19,7 @@ module.exports = function(grunt) {
           src: ['*.scss'], // grab any .scss in /css/ and compile to /css/*.css
           dest: 'css/',
           ext: '.css'
-        }]
+        }],
       },
     },
 
