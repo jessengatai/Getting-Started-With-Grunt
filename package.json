@@ -13,7 +13,7 @@
   },
   "homepage": "https://github.com/jessengatai/Getting-Started-With-Grunt#readme",
   "devDependencies": {
-    "grunt": "^1.0.1",
+    "grunt": "^1.0.1"
   },
   "dependencies": {}
 }
