@@ -3,3 +3,8 @@
 
 # ignore node modules
 node_modules/
+
+# ignore certain file types
+*.css
+*.css.map
+*.scssc
